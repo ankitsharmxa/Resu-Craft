@@ -21,7 +21,7 @@
   <a href="https://resume-ai-app.vercel.app/"><strong>➥ Visit ResumeAI App</strong></a>
 </div>
 
-## <a name="features">✨ Features</a>
+## <a name="features"> Features</a>
 
 - **AI-Powered Resume Generation:** Generate a professional resume using AI.
 
@@ -35,7 +35,7 @@
 
 - **Responsiveness:** Ensures the application adapts seamlessly to various screen sizes and devices.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack"> Tech Stack</a>
 
 - **Frontend:** Next.js 14
 
@@ -49,7 +49,7 @@
 
 - **Database:** MongoDB
 
-## <a name="quick-start">🚀 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -104,18 +104,5 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## 🤝 Contributing
 
-Contributions are welcome! Here's how you can contribute:
 
-- Fork the repository.
-- Create your feature branch (`git checkout -b feature/AmazingFeature`).
-- Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-- Push to the branch (`git push origin feature/AmazingFeature`).
-- Open a pull request.
-
-## 📬 Contact
-
-Wanna reach out to me? DM me at 👇
-
-Email: mahmudul15-13791@diu.edu.bd
